@@ -1,6 +1,6 @@
 #! /bin/bash
 
-apt-get install nethack
+apt-get install nethack-console
 cd /var/games/nethack/save
 git config --global user.name "anechoic525"
 git config --global user.email "joe.reyenga@gmail.com"
